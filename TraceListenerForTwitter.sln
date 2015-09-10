@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TraceListenerForTwitter", "TraceListenerForTwitter\TraceListenerForTwitter.vbproj", "{D23D7289-DB32-4750-9FCE-184FCEEE51FF}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TestTwitterTraceListener", "TestTwitterTraceListener\TestTwitterTraceListener.vbproj", "{4BA7D7DB-CC66-42E7-953F-C4838C5A6ACE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D23D7289-DB32-4750-9FCE-184FCEEE51FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23D7289-DB32-4750-9FCE-184FCEEE51FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23D7289-DB32-4750-9FCE-184FCEEE51FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23D7289-DB32-4750-9FCE-184FCEEE51FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BA7D7DB-CC66-42E7-953F-C4838C5A6ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA7D7DB-CC66-42E7-953F-C4838C5A6ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA7D7DB-CC66-42E7-953F-C4838C5A6ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA7D7DB-CC66-42E7-953F-C4838C5A6ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
